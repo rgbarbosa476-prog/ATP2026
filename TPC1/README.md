@@ -10,5 +10,5 @@ Fizemos o meze 10.
 Fizemos a figura do barco que o professor deu
 
 ## Resultados
-*Imagem com o programa do meze: ![foto]( nome do ficheiro )
+*Imagem com o programa do meze: ![foto](meze.png)
 
