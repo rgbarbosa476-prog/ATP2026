@@ -5,7 +5,7 @@
 
 ## Resumo 
 
-Fizemos o meze 10.
+Fizemos o maze 10.
 Fizemos a figura do barco que o professor deu
 
 ## Resultados
