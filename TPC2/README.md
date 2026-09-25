@@ -12,4 +12,4 @@ TPC2: Adivinha o número
 - Uma vez descoberto o número o programa deverá terminar imprimindo o número de tentativas que quem adivinhou usou para chegar ao resultado.
 
 ## Resultados
-*Progama: (foto)(tpc2.ipynb)
+*Progama: ![programa](tpc2.ipynb)
