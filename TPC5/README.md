@@ -22,4 +22,4 @@ turma = [aluno]
 * No fim de executar a operação selecionada, a aplicação deverá colocar novamente o menu e pedir ao utilizador a opção para continuar.
 
 ## Resultados
-*Progama: ![programa](tpc4.ipynb)
+*Progama: ![programa](tpc5.ipynb)
