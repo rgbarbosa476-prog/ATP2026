@@ -10,5 +10,5 @@
 Cria uma aplicação Python que permita ao utilizador usar todas as funcionalidades pedidas nesta ficha.
 
 ## Resultados
-*Progama: ![programa](tpc6.ipynb)
+*Progama: ![programa](tpc_6.ipynb)
 
